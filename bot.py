@@ -1,7 +1,7 @@
 import telebot
 TOKEN = '1226621202:AAGVkMsvYOPElRa4pU7hDEJV_BgtA4Ep4IY'
 
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(content_types=['text'])
 def lalala(message):
