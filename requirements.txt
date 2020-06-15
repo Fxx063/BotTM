@@ -1,4 +1,4 @@
-1 lines (8 sloc)  298 Bytes
+#1 lines (8 sloc)  298 Bytes
   
 # List of required packages (Dependencies)
 redis
